@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # Author: <Ash-Ishh..>
-set -e
 
 install_inotify() {
   YUM_CMD=$(command -v yum)
